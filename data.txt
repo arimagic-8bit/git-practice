@@ -1,0 +1,3 @@
+Name: Ariadna
+Age: 25
+Favourite Color: green
